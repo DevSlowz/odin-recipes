@@ -1,3 +1,17 @@
 #title {
     background-color: rgb(238, 210, 148);
+    font-size: 50px;
+}
+
+body {
+    background-color:bisque
+}
+
+ul {
+    background-color: rgb(237, 184, 105);
+}
+
+ul .recipe-item {
+    background-color: rgb(238, 228, 151);
+    font-size: 22px;
 }
