@@ -57,3 +57,21 @@ body h1 {
     font-weight: bold;
     background-color: rgb(186, 186, 186);
 }
+
+.image-container {
+    text-align: center;
+    display: block;
+}
+
+.image-text {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    display: block;
+
+}
+
+.image-text span {
+
+    border-bottom: 2px solid;
+
+}
