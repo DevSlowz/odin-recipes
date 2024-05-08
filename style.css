@@ -1,3 +1,8 @@
+* {
+    /* outline: 2px solid red; */
+    box-sizing: border-box;
+  }
+  
 #title {
     background-color: rgb(238, 210, 148);
     font-size: 50px;
@@ -9,17 +14,24 @@ body {
 }
 
 ul {
-    background-color: rgb(237, 184, 105);
+    background-color: beige;
+    display: block;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+    margin: auto;
+
 }
 
-body ul {
-    background-color: rgb(244, 142, 142);
+li {
+    display: inline-block;
+    padding: 50px;
+    background-color: white;
+    width: 100%;
+    margin: auto;
 }
 
-ul .recipe-item {
-    background-color: rgb(238, 228, 151);
-    font-size: 22px;
-}
+
 
 
 
